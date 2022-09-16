@@ -1,0 +1,6 @@
+In this project the functions implemented by the professor in the file ProjectAssignment.mlx are valid for one week.
+For this reason if you run the file Santoro_luca_project.xml there will be problem, 
+because the functions to generate the data are not available. 
+(To solve the problem you can use other functions to generate the input data then used 
+in the Sntoro_luca_Project.mxl file or you can change the date of your pc with 
+ ---> January 13 2022)
